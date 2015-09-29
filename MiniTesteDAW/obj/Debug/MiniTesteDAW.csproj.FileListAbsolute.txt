@@ -1,0 +1,71 @@
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\MiniTesteDAW.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\MiniTesteDAW.pdb
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\Antlr3.Runtime.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\EntityFramework.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\Newtonsoft.Json.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Mvc.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Optimization.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Providers.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Razor.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Deployment.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Razor.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\WebGrease.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\EntityFramework.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\Newtonsoft.Json.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Mvc.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Razor.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Deployment.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Razor.xml
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.csprojResolveAssemblyReference.cache
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.dll
+c:\users\rdr_vintuar\documents\visual studio 2012\Projects\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.pdb
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\MiniTesteDAW.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\MiniTesteDAW.pdb
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\Antlr3.Runtime.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\EntityFramework.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\Microsoft.Web.Infrastructure.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\Newtonsoft.Json.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Mvc.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Optimization.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Providers.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Razor.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Deployment.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Razor.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\WebGrease.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\EntityFramework.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\Newtonsoft.Json.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Mvc.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.Razor.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Deployment.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\bin\System.Web.WebPages.Razor.xml
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.csprojResolveAssemblyReference.cache
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.dll
+F:\Jo Super\Study Office\Faculdade\3º Ano\2º Semestre\DAW\Meu material\Git\MiniTesteDAW\MiniTesteDAW\obj\Debug\MiniTesteDAW.pdb
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.pdb
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Antlr3.Runtime.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\EntityFramework.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Optimization.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Providers.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\WebGrease.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\EntityFramework.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.pdb

@@ -1,0 +1,45 @@
+﻿<div style="text-align:center"> CRUD </div>
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<table class="table" style="width:500px">
+    <tbody>
+        <tr>
+            <td>Description</td>
+            <td><input type="text" data-ng-model="emp.description" /></td>
+        </tr>
+        <tr>
+            <td>Designation</td>
+            <td><input type="text" data-ng-model="emp.designation" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="button" data-ng-click="save()" value="Save" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="button" data-ng-click="update()" value="Update" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<div style="text-align:center; width:550px">
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Office ID</th>
+            <th>Description</th>
+            <th>Designation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr data-ng-repeat="item in emplist">
+            <td>{{item.id}}</td>
+            <td>{{item.description}}</td>
+            <td>{{item.designation}}</td>
+            <td><input type="button" data-ng-click="edit(item)" value="Edit" /></td>
+            <td><input type="button" data-ng-click="delete(item)" value="Delete" /></td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+

@@ -1,0 +1,72 @@
+﻿<div style="text-align: center">CRUD </div>
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<table class="table" style="width: 500px">
+    <tbody>
+        <tr>
+            <td>Title</td>
+            <td>
+                <input type="text" data-ng-model="emp.title" /></td>
+        </tr>
+        <tr>
+            <td>Start date</td>
+            <td>
+                <input type="datetime" data-ng-model="emp.startDate" /></td>
+        </tr>
+        <tr>
+            <td>End date</td>
+            <td>
+                <input type="datetime" data-ng-model="emp.endDate" /></td>
+        </tr>
+        <tr>
+            <td>Tarefas</td>
+            <td>
+                <input type="text" data-ng-model="emp.description" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="button" data-ng-click="save()" value="Save" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="button" data-ng-click="update()" value="Update" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<div style="text-align: center; width: 550px">
+    Filter By NAme : <input type="text" ng-model="myNameFilters"> 
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th >Project ID</th>
+                <th ng-click="predicate = 'title'; reverse=!reverse"><b>Title</b></th>
+                <th>Start date</th>
+                <th>End date</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in emplist | filter:myNameFilters | orderBy:predicate:reverse">
+                <td>{{item.id}}</td>
+                <td>{{item.title}}</td>
+                <td>{{item.startDate | date:'yyyy-MM-dd EEE'}}</td>
+                <td>{{item.endDate | date:'yyyy-MM-dd EEE'}}</td>
+                <td>
+                    <input type="button" data-ng-click="edit(item)" value="Edit" /></td>
+                <td>
+                    <input type="button" data-ng-click="delete(item)" value="Delete" /></td>
+                <td>
+                    <input type="button" data-ng-click="details(item)" value="Detalhes" /></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr data-ng-repeat="item1 in states">
+                <td>{{item1.memberCod}}</td>
+                <td>{{item1.description}}</td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+

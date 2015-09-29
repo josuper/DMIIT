@@ -1,0 +1,47 @@
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.pdb
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Antlr3.Runtime.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\EntityFramework.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Optimization.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Providers.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\WebGrease.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\EntityFramework.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.dll
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.pdb
+C:\Users\JoSuper\Documents\Visual Studio 2012\Projects\ToDoApp\MiniTesteDAW\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\MiniTesteDAW.pdb
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\Antlr3.Runtime.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\EntityFramework.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Optimization.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Providers.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\WebGrease.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\EntityFramework.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\Newtonsoft.Json.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Mvc.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.Razor.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\bin\System.Web.WebPages.Razor.xml
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.dll
+C:\Users\RDR_Vintuar\Desktop\flas\ToDoApp\MiniTesteDAW\obj\Debug\MiniTesteDAW.pdb

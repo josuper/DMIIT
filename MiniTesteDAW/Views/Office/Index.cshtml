@@ -1,0 +1,68 @@
+﻿@*@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div ng-view>
+
+</div>
+@section scripts{
+    <script src="~/Scripts/App/routeConfig.js"></script>
+    <script src="~/Scripts/App/Controllers/officeController.js"></script>
+    }*@
+
+<html ng-app="MyAngularModule" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script src="http://code.angularjs.org/1.2.2/angular.js"></script>
+    <script src="http://code.angularjs.org/1.2.2/angular-animate.min.js"></script>
+    <style>
+        .ng-enter {
+            -webkit-transition: 1s;
+            transition: 3s;
+            opacity: 0;
+        }
+
+        .ng-enter-active {
+            opacity: 1;
+        }
+
+        .ng-leave {
+            -webkit-transition: 1s;
+            transition: 2s;
+        }
+
+        .ng-leave-active {
+            opacity: 0;
+        }
+    </style>
+    <script>
+        angular.module('MyAngularModule', ['ngAnimate'])
+        .controller('myAngularController', function (
+          $scope
+        ) {
+        });
+    </script>
+</head>
+<body ng-controller="myAngularController" ng-init="Names = [{name:'Shanu'},
+                       {name:'Afraz'}, {name:'Afreen'}, {name:'Vijay'},  {name:'Mak'}, {name:'Raja'}]">
+
+    Filter By NAme : <input type="text" ng-model="myNameFilters">
+    <table border=1>
+        <tr>
+            <td ng-click="predicate = 'name'; reverse=!reverse">
+                <b>Toy Code</b>
+            </td>
+        </tr>
+        <tbody ng-repeat="nme in Names   | filter:myNameFilters  | orderBy:predicate:reverse">
+
+            <tr>
+                <td>
+                    {{nme.name}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
